@@ -52,7 +52,7 @@
     "css-loader": "^0.28.0",
     "eventsource": "^1.0.5",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "express-winston": "^2.4.0",
     "extract-text-webpack-plugin": "^3.0.0",
